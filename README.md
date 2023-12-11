@@ -1,4 +1,4 @@
-# Mapkick Static
+# Mapkick Static.py
 
 Create beautiful static maps with one line of Python. No more fighting with mapping libraries!
 
