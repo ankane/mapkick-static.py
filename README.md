@@ -4,7 +4,7 @@ Create beautiful static maps with one line of Python. No more fighting with mapp
 
 [See it in action](#maps)
 
-:fire: For JavaScript maps, check out [Mapkick.py](https://chartkick.com/mapkick-py)
+For JavaScript maps, check out [Mapkick.py](https://chartkick.com/mapkick-py)
 
 [![Build Status](https://github.com/ankane/mapkick-static.py/actions/workflows/build.yml/badge.svg)](https://github.com/ankane/mapkick-static.py/actions)
 
