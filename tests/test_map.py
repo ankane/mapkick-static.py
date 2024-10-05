@@ -1,4 +1,5 @@
-from mapkick.static import *
+from mapkick.static import StaticMap, StaticAreaMap, StaticBaseMap
+import os
 import pytest
 from random import random
 import subprocess
